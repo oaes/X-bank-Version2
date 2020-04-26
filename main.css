@@ -1,0 +1,46 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.transition-submit{
+    margin-top: 50px;
+    padding: 55px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#transition-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.deposit{
+    background-color: slateblue;
+
+}
+.withdraw{
+    background-color: sandybrown;
+}
+.balance{
+    background-color: olivedrab;
+}
